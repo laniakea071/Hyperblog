@@ -43,9 +43,12 @@ body
 
 #post{
     padding: 1em;
+}
 
-    
-    
-
-
+#footer{
+    background: rgb(196, 191, 191);
+    color: rgba(255, 0, 0, 0.541);
+    font-weight: bold;
+    text-align: center;
+    padding: 00.5em;
 }
